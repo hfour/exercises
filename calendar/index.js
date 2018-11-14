@@ -1,0 +1,4 @@
+
+function layouOutDay(events) {
+  // Implementation
+}

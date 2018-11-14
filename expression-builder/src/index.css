@@ -1,0 +1,25 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.root {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  flex: 1 0;
+  padding: 10px;
+}
+
+.output {
+  flex: 0 0 100px;
+  background-color: #ededed;
+  padding: 10px;
+}
