@@ -9,3 +9,4 @@ If you've been tasked with one of these exercises, please complete it in a new g
 * [Message Broker](message-broker) (Node.JS / PostgreSQL)
 * [Calendar](calendar) (Javascript / HTML / CSS)
 * [Expression Builder](expression-builder) (Javascript / HTML / CSS)
+* [Bouncing Balls](bouncing-balls) (Javascript / HTML)
