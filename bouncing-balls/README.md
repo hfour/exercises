@@ -23,7 +23,7 @@ Congratulations for making it to the next round! We’re really excited to meet 
 
 ![screen wireframe](./bouncing-ball-example.gif)
 
-**Stage 2**: When the projectile reaches the bottom of the browser window it should bounce until it stops.
+**Stage 2**: When the projectile reaches the bottom of the browser window it should bounce, and eventually come to a stop.
 
 **Stage 3**: Submit
 
