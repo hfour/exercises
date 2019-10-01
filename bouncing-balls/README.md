@@ -18,6 +18,14 @@ Congratulations for making it to the next round! We’re really excited to meet 
 * You should include some tests for your code.
 * Any 3rd party code (at all) should be clearly attributed.
 
+### How to submit the solution
+
+Ideally, create a public repository and share the link with us.
+
+If you choose to make the repo **private**, please make sure that you make an engineer from H4 **the owner** so we can internally reshare it with the rest of the people who'll be reviewing the code. If you're not sure who to add as an owner, please contact the recruiter and they will tell you.
+
+If all else fails, you can submit the exercise as a .zip, but using Github is perfered.
+
 ### Challenge
 **Stage 1**: Whenever the user clicks on the page, a circle is ‘fired’ from the position being clicked at a random speed and angle. Please ensure that your solution handles multiple balls being fired and bouncing at the same time.
 
